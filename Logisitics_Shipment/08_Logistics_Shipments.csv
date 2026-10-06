@@ -1,0 +1,381 @@
+shipment_id,origin,destination,carrier,package_type,weight_kg,shipping_cost,delivery_days,delivery_status,ship_date
+SH00001,Pune,Patna,EcomExpress,Small,27.64,2411.96,2.3,Delayed,2025-01-07
+SH00002,Kolkata,Delhi,Delhivery,Medium,24.31,3315.43,3.2,Delivered,2026-05-19
+SH00003,Mumbai,Patna,EcomExpress,Medium,21.07,3770.19,6.2,Delivered,2026-01-02
+SH00004,Patna,Kolkata,Delhivery,Medium,0.52,1890.58,2.2,Delivered,2025-08-06
+SH00005,Kolkata,Bangalore,DTDC,Large,36.42,1645.01,1.5,Delivered,2025-01-28
+SH00006,Pune,Delhi,Delhivery,Large,39.47,4149.02,3.2,Delivered,2026-03-29
+SH00007,Mumbai,Patna,BlueDart,Medium,28.5,1178.1,3.8,Delivered,2025-05-20
+SH00008,Pune,Kolkata,EcomExpress,Small,36.34,1809.43,3.1,Delivered,2026-09-01
+SH00009,Pune,Patna,BlueDart,Document,36.58,1904.2,4.7,Delivered,2026-08-14
+SH00010,Pune,Mumbai,Delhivery,Large,14.9,4619.87,1.0,Delivered,2025-06-11
+SH00011,Pune,Patna,Delhivery,Document,30.07,1097.31,2.9,Delivered,2025-02-02
+SH00012,Mumbai,Patna,DTDC,Large,11.47,1632.99,4.2,Delivered,2026-02-16
+SH00013,Pune,Delhi,BlueDart,Document,15.34,692.39,1.6,Delivered,2026-07-20
+SH00014,Mumbai,Delhi,DTDC,Small,6.36,1099.29,4.4,Delivered,2025-10-31
+SH00015,Mumbai,Kolkata,EcomExpress,Large,21.38,4250.9,3.4,Delivered,2026-09-07
+SH00016,Kolkata,Kolkata,BlueDart,Medium,12.45,4285.6,4.9,Delivered,2025-12-16
+SH00017,Pune,Kolkata,BlueDart,Small,1.5,1479.47,4.9,Delayed,2025-05-05
+SH00018,Mumbai,Kolkata,DTDC,Small,27.98,4340.36,3.0,Delivered,2025-07-03
+SH00019,Pune,Kolkata,BlueDart,Large,37.56,,4.6,Delivered,2025-09-18
+SH00020,Delhi,Kolkata,EcomExpress,Document,38.78,2687.79,3.2,Delivered,2026-01-08
+SH00021,Pune,Mumbai,BlueDart,Document,7.74,762.23,0.5,Delivered,2025-07-14
+SH00022,Pune,Patna,BlueDart,Small,28.66,1487.21,3.3,Delivered,2026-02-25
+SH00023,Pune,Mumbai,BlueDart,Large,5.68,4868.96,0.9,Lost,2026-05-12
+SH00024,Pune,Kolkata,Delhivery,Large,10.4,2240.38,1.6,Lost,2026-05-07
+SH00025,Pune,Mumbai,EcomExpress,Small,38.11,3890.16,2.9,Delivered,2026-05-16
+SH00026,Patna,Bangalore,EcomExpress,Large,23.91,1967.74,4.7,In Transit,2026-09-24
+SH00027,Patna,Delhi,DTDC,Small,27.8,4058.05,2.8,Delivered,2026-01-29
+SH00028,Mumbai,Bangalore,Delhivery,Document,38.88,4890.54,1.4,Delivered,2025-01-19
+SH00029,Pune,Kolkata,Delhivery,Large,39.15,3229.28,4.6,Delayed,2025-05-01
+SH00030,Delhi,Patna,EcomExpress,Small,35.14,3197.74,4.4,Delivered,2026-04-19
+SH00031,Kolkata,Bangalore,BlueDart,Small,8.7,4371.63,4.9,Delivered,2025-09-29
+SH00032,Delhi,Patna,EcomExpress,Document,29.24,2074.87,3.4,Delivered,2025-11-28
+SH00033,Pune,Delhi,Delhivery,Large,2.97,2719.96,5.4,Delivered,2026-07-13
+SH00034,Patna,Mumbai,DTDC,Medium,4.15,123.3,0.5,Delivered,2026-05-16
+SH00035,Patna,Delhi,Delhivery,Document,2.39,4521.29,3.6,Delivered,2025-08-01
+SH00036,Kolkata,Bangalore,DTDC,Document,10.26,1686.06,3.6,Delivered,2026-09-02
+SH00037,Kolkata,Kolkata,Delhivery,Medium,24.01,1743.66,3.5,Delivered,2025-08-24
+SH00038,Kolkata,Mumbai,EcomExpress,Medium,4.07,4966.18,2.8,In Transit,2026-07-22
+SH00039,Kolkata,Bangalore,DTDC,Small,39.57,1462.51,3.5,Delivered,2026-09-22
+SH00040,Kolkata,Bangalore,Delhivery,Small,29.09,4620.31,3.1,Delivered,2025-06-28
+SH00041,Delhi,Kolkata,,Large,5.34,2132.01,3.9,Delivered,2025-04-15
+SH00042,Delhi,Kolkata,EcomExpress,Medium,15.38,709.51,5.7,Delivered,2026-09-08
+SH00043,Delhi,Kolkata,EcomExpress,Document,11.61,3340.48,6.9,Delivered,2025-10-06
+SH00044,Pune,Kolkata,EcomExpress,Medium,28.38,4248.36,3.4,Delayed,2026-08-06
+SH00045,Pune,Delhi,Delhivery,Large,36.39,2747.1,6.6,Delivered,2026-04-03
+SH00046,Delhi,Mumbai,DTDC,Medium,32.4,4756.22,2.0,In Transit,2026-07-27
+SH00047,Mumbai,Patna,Delhivery,Small,20.37,1050.83,1.3,Delivered,2026-09-12
+SH00048,Pune,Mumbai,Delhivery,Medium,25.64,3995.1,3.5,Delivered,2026-01-24
+SH00049,Delhi,Kolkata,EcomExpress,Small,35.28,3131.13,2.7,Delivered,2025-11-21
+SH00050,Kolkata,Delhi,BlueDart,Document,6.79,1216.25,4.6,Delayed,2026-04-27
+SH00051,Delhi,Patna,EcomExpress,Large,21.86,1062.74,3.1,Delivered,2026-05-15
+SH00052,Kolkata,Kolkata,Delhivery,Medium,34.94,738.62,2.7,Delivered,2025-10-25
+SH00053,Mumbai,Delhi,EcomExpress,Large,4.11,2298.75,0.5,Delivered,2026-04-07
+SH00054,Delhi,Delhi,BlueDart,Small,35.2,692.42,4.5,In Transit,2026-02-18
+SH00055,Patna,Patna,EcomExpress,Small,9.18,4129.43,4.7,Delivered,2026-02-03
+SH00056,Kolkata,Patna,BlueDart,Large,17.41,115.72,2.8,Delivered,2026-05-03
+SH00057,Kolkata,Delhi,BlueDart,Medium,19.13,1814.8,2.5,In Transit,2025-06-20
+SH00058,Kolkata,Bangalore,EcomExpress,Medium,29.34,268.41,5.2,Delivered,2025-05-31
+SH00059,Mumbai,Patna,DTDC,Large,17.57,3354.94,2.7,Delivered,2026-04-16
+SH00060,Mumbai,Delhi,Delhivery,Large,39.12,661.42,1.9,Delivered,2026-08-09
+SH00061,Patna,Delhi,BlueDart,Medium,7.87,4303.51,6.0,Delivered,2025-03-14
+SH00062,Patna,Mumbai,BlueDart,Medium,34.91,3848.96,1.9,Delivered,2025-10-28
+SH00063,Pune,Mumbai,Delhivery,Document,35.79,212.98,2.7,In Transit,2025-10-22
+SH00064,Pune,Mumbai,EcomExpress,Medium,0.71,2966.66,3.3,Delivered,2026-05-26
+SH00065,Delhi,Patna,Delhivery,Large,8.0,1233.86,7.1,Delivered,2025-09-01
+SH00066,Kolkata,Patna,BlueDart,Small,18.42,3195.09,3.4,Delivered,2025-12-22
+SH00067,Pune,Patna,Delhivery,Document,37.37,542.47,1.4,Delivered,2026-04-02
+SH00068,Pune,Mumbai,Delhivery,Document,33.11,2133.89,4.6,Delivered,2025-10-28
+SH00069,Pune,Kolkata,DTDC,Medium,30.0,3721.86,1.8,Delivered,2026-08-01
+SH00070,Patna,Mumbai,EcomExpress,Small,28.17,827.01,2.7,Delivered,2025-12-13
+SH00071,Patna,Bangalore,DTDC,Document,14.57,4282.58,3.9,In Transit,2025-05-02
+SH00072,Pune,Kolkata,Delhivery,Document,5.93,4983.81,2.6,Delivered,2026-06-20
+SH00073,Kolkata,Bangalore,Delhivery,Small,35.8,382.77,2.4,Delivered,2026-01-29
+SH00074,Mumbai,Patna,Delhivery,Document,24.87,1022.16,2.0,Delivered,2026-05-14
+SH00075,Delhi,Delhi,DTDC,Small,38.49,1600.34,4.4,Delivered,2026-04-04
+SH00076,Delhi,Kolkata,EcomExpress,Medium,1.46,,3.2,Delivered,2025-02-19
+SH00077,Kolkata,Kolkata,DTDC,Large,0.22,3574.15,4.5,Delivered,2025-04-12
+SH00078,Mumbai,Patna,DTDC,Large,13.71,4290.29,2.6,Delivered,2025-08-18
+SH00079,Delhi,Delhi,DTDC,Small,27.38,1598.93,3.6,Delivered,2026-01-15
+SH00080,Patna,Mumbai,EcomExpress,Large,23.09,1887.74,4.8,Delivered,2025-10-14
+SH00081,Kolkata,Mumbai,EcomExpress,Small,15.0,3899.87,1.3,Delivered,2025-07-05
+SH00082,Delhi,Kolkata,BlueDart,Small,38.88,4627.99,3.1,In Transit,2025-02-24
+SH00083,Pune,Bangalore,Delhivery,Document,17.89,504.4,1.4,Delivered,2025-06-09
+SH00084,Patna,Bangalore,EcomExpress,Document,6.73,2997.26,6.5,Delayed,2025-08-16
+SH00085,Kolkata,Delhi,DTDC,Medium,18.57,702.2,4.7,Delivered,2026-06-13
+SH00086,Pune,Delhi,BlueDart,Large,11.35,2605.98,3.3,Delivered,2025-02-25
+SH00087,Kolkata,Kolkata,BlueDart,Medium,21.59,3690.28,3.9,Delivered,2025-09-20
+SH00088,Kolkata,Patna,BlueDart,Large,7.54,3860.39,1.5,Delivered,2026-09-12
+SH00089,Mumbai,Patna,Delhivery,Large,28.91,4943.26,3.0,Delivered,2026-07-27
+SH00090,Kolkata,Kolkata,BlueDart,Document,5.44,2850.01,4.6,Delayed,2025-12-21
+SH00091,Delhi,Patna,DTDC,Document,2.09,1406.89,1.9,Delayed,2026-04-24
+SH00092,Patna,Bangalore,Delhivery,Large,18.7,672.32,0.5,Delivered,2025-10-19
+SH00093,Delhi,Patna,DTDC,Document,17.03,1398.23,4.2,In Transit,2025-06-30
+SH00094,Kolkata,Mumbai,BlueDart,Medium,33.31,1508.6,4.8,Delivered,2025-03-12
+SH00095,Patna,Patna,BlueDart,Medium,6.65,2149.47,2.1,Delivered,2025-10-19
+SH00096,Delhi,Kolkata,BlueDart,Document,5.51,755.88,0.9,In Transit,2025-10-30
+SH00097,Mumbai,Patna,Delhivery,Document,16.83,2454.13,3.2,Delivered,2026-09-20
+SH00098,Delhi,Delhi,DTDC,Large,16.67,849.38,3.7,Delivered,2026-01-15
+SH00099,Patna,Mumbai,Delhivery,Small,28.6,4016.65,5.0,Delivered,2025-11-30
+SH00100,Patna,Delhi,BlueDart,Large,11.35,514.19,5.1,In Transit,2025-01-10
+SH00101,Delhi,Kolkata,DTDC,Medium,19.88,3285.93,6.6,In Transit,2026-03-22
+SH00102,Pune,Bangalore,Delhivery,Small,22.14,3373.86,7.5,Delivered,2026-08-21
+SH00103,Patna,Delhi,Delhivery,Document,22.72,1250.65,3.0,Delivered,2025-06-20
+SH00104,Kolkata,Delhi,Delhivery,Medium,20.31,3873.8,4.6,Delivered,2025-03-27
+SH00105,Delhi,Mumbai,EcomExpress,Large,25.79,639.57,6.3,Delivered,2025-11-10
+SH00106,Pune,Kolkata,BlueDart,Small,19.26,3572.63,2.2,Delayed,2025-03-04
+SH00107,Pune,Kolkata,DTDC,Small,22.03,1422.53,6.5,Delivered,2026-05-01
+SH00108,Patna,Mumbai,DTDC,Medium,31.88,319.06,3.7,Lost,2026-05-06
+SH00109,Kolkata,Mumbai,DTDC,Medium,38.39,3308.24,3.8,Delayed,2026-01-10
+SH00110,Delhi,Mumbai,EcomExpress,Document,7.12,2654.79,3.0,In Transit,2026-03-17
+SH00111,Kolkata,Patna,DTDC,Small,16.65,1720.98,4.3,Delivered,2025-10-24
+SH00112,Delhi,Bangalore,,Medium,0.59,1514.53,3.6,Delivered,2025-02-05
+SH00113,Kolkata,Bangalore,Delhivery,Medium,34.66,4827.27,5.5,Lost,2025-04-28
+SH00114,Kolkata,Patna,DTDC,Large,22.61,1739.13,2.8,Delivered,2026-08-15
+SH00115,Mumbai,Delhi,Delhivery,Document,0.91,1881.04,3.8,Delivered,2026-06-02
+SH00116,Kolkata,Kolkata,Delhivery,Small,25.97,436.61,3.2,Delivered,2025-03-17
+SH00117,Mumbai,Mumbai,EcomExpress,Large,25.1,2741.08,5.8,Delivered,2026-08-19
+SH00118,Patna,Delhi,BlueDart,Medium,28.05,4743.71,6.0,Delivered,2025-03-16
+SH00119,Delhi,Patna,EcomExpress,Large,12.91,1487.71,5.0,Delivered,2025-07-20
+SH00120,Delhi,Delhi,EcomExpress,Medium,17.66,1095.45,4.1,Delivered,2026-03-09
+SH00121,Patna,Delhi,DTDC,Large,28.09,4526.06,3.7,Delivered,2025-07-01
+SH00122,Kolkata,Patna,BlueDart,Medium,35.48,4391.96,2.6,In Transit,2025-12-10
+SH00123,Pune,Patna,EcomExpress,Large,9.83,3900.81,5.3,Delivered,2025-04-28
+SH00124,Pune,Delhi,EcomExpress,Small,18.56,4417.74,1.4,Delivered,2025-10-21
+SH00125,Kolkata,Kolkata,DTDC,Medium,4.66,1836.12,3.7,Delivered,2026-07-29
+SH00126,Mumbai,Mumbai,BlueDart,Medium,34.56,2666.27,3.0,Delivered,2026-09-24
+SH00127,Delhi,Kolkata,DTDC,Document,30.67,2917.71,3.5,In Transit,2025-04-30
+SH00128,Patna,Mumbai,EcomExpress,Document,25.14,2429.07,5.8,Delivered,2026-06-23
+SH00129,Patna,Bangalore,Delhivery,Medium,5.79,3922.62,3.5,Delivered,2025-01-26
+SH00130,Kolkata,Mumbai,BlueDart,Medium,32.39,533.2,2.7,Delivered,2026-08-26
+SH00131,Pune,Delhi,DTDC,Small,36.99,3030.83,2.6,Delayed,2026-03-30
+SH00132,Delhi,Bangalore,DTDC,Document,12.11,2366.04,0.5,Delivered,2026-04-20
+SH00133,Pune,Kolkata,DTDC,Document,28.01,1525.33,2.1,In Transit,2026-01-21
+SH00134,Pune,Kolkata,EcomExpress,Document,35.77,3864.58,4.2,Delivered,2025-04-02
+SH00135,Delhi,Mumbai,BlueDart,Small,13.52,4408.09,1.5,Delayed,2026-01-14
+SH00136,Pune,Delhi,EcomExpress,Medium,24.49,3585.06,3.8,Delayed,2025-10-22
+SH00137,Kolkata,Delhi,EcomExpress,Large,6.94,3840.52,6.1,Delivered,2025-06-15
+SH00138,Kolkata,Kolkata,Delhivery,Document,28.12,4610.04,4.0,Delivered,2026-01-20
+SH00139,Delhi,Bangalore,EcomExpress,Small,24.57,270.6,3.2,Delivered,2025-06-07
+SH00140,Kolkata,Mumbai,DTDC,Large,11.35,4240.73,3.4,Delivered,2025-07-20
+SH00141,Kolkata,Bangalore,DTDC,Small,37.63,4256.12,3.4,Delivered,2025-12-31
+SH00142,Kolkata,Bangalore,EcomExpress,Document,22.77,1015.08,5.9,Delivered,2025-08-03
+SH00143,Delhi,Mumbai,DTDC,Document,39.92,1691.15,2.7,Delivered,2025-05-30
+SH00144,Kolkata,Patna,DTDC,Medium,15.37,4562.03,4.5,Delivered,2026-07-28
+SH00145,Pune,Kolkata,BlueDart,Document,29.9,1179.63,2.8,Delivered,2025-12-07
+SH00146,Kolkata,Patna,Delhivery,Document,12.07,4593.78,3.4,In Transit,2025-09-23
+SH00147,Delhi,Kolkata,Delhivery,Medium,39.28,348.92,2.3,Delivered,2026-06-13
+SH00148,Mumbai,Bangalore,EcomExpress,Medium,37.49,470.53,2.9,In Transit,2026-08-15
+SH00149,Mumbai,Delhi,Delhivery,Medium,23.29,2093.82,4.6,Delivered,2025-01-03
+SH00150,Mumbai,Mumbai,DTDC,Large,35.72,1067.11,4.6,In Transit,2025-11-06
+SH00151,Pune,Kolkata,Delhivery,Small,12.64,1324.93,2.0,Delivered,2025-06-10
+SH00152,Delhi,Delhi,EcomExpress,Large,15.34,4793.83,4.5,In Transit,2025-12-15
+SH00153,Pune,Bangalore,BlueDart,Small,2.26,1789.71,1.9,Lost,2026-04-12
+SH00154,Kolkata,Bangalore,BlueDart,Document,37.75,1529.91,5.5,Delivered,2026-05-14
+SH00155,Mumbai,Delhi,Delhivery,Document,27.26,4680.37,4.7,Delivered,2025-08-21
+SH00156,Patna,Mumbai,EcomExpress,Small,31.35,1378.4,5.3,Delivered,2025-03-01
+SH00157,Delhi,Bangalore,DTDC,Large,7.2,539.97,4.5,Delivered,2025-06-12
+SH00158,Delhi,Patna,DTDC,Medium,15.95,330.35,2.4,Delivered,2025-11-16
+SH00159,Pune,Delhi,BlueDart,Small,27.33,947.26,4.0,Delivered,2026-04-11
+SH00160,Kolkata,Mumbai,BlueDart,Large,20.99,1411.15,4.4,Delivered,2025-02-04
+SH00161,Pune,Mumbai,EcomExpress,Medium,14.34,658.22,6.4,Delivered,2025-09-22
+SH00162,Mumbai,Patna,EcomExpress,Large,26.04,547.35,3.0,Delivered,2025-12-20
+SH00163,Patna,Bangalore,Delhivery,Medium,37.78,1611.73,4.2,Delivered,2025-08-13
+SH00164,Delhi,Bangalore,DTDC,Medium,21.55,1709.54,0.5,Lost,2026-04-08
+SH00165,Pune,Delhi,DTDC,Document,22.64,1513.37,4.8,Delivered,2025-02-28
+SH00166,Pune,Bangalore,EcomExpress,Document,25.86,446.34,1.0,Delivered,2026-01-20
+SH00167,Patna,Delhi,EcomExpress,Document,26.83,2015.48,2.9,Delayed,2026-05-09
+SH00168,Patna,Kolkata,DTDC,Small,13.02,1374.92,5.7,Delivered,2025-08-13
+SH00169,Pune,Bangalore,BlueDart,Document,16.64,2740.89,2.2,In Transit,2026-09-12
+SH00170,Delhi,Kolkata,Delhivery,Medium,20.12,3913.52,0.6,Delivered,2025-10-05
+SH00171,Kolkata,Kolkata,Delhivery,Large,31.45,3616.5,2.3,In Transit,2025-09-20
+SH00172,Kolkata,Delhi,Delhivery,Large,27.5,2534.97,2.4,Delayed,2025-10-02
+SH00173,Mumbai,Delhi,Delhivery,Small,8.54,1926.69,1.1,Delivered,2026-08-28
+SH00174,Pune,Mumbai,DTDC,Document,15.97,2232.48,4.2,In Transit,2025-04-20
+SH00175,Kolkata,Patna,BlueDart,Document,19.62,3328.2,2.6,Delayed,2026-02-08
+SH00176,Patna,Mumbai,Delhivery,Large,14.14,556.07,4.6,Delayed,2026-03-05
+SH00177,Patna,Patna,DTDC,Small,10.58,4713.28,5.6,Delivered,2026-01-19
+SH00178,Pune,Bangalore,DTDC,Medium,29.18,2242.43,2.2,Delivered,2025-12-15
+SH00179,Delhi,Kolkata,EcomExpress,Medium,0.92,334.01,5.5,Delivered,2026-06-13
+SH00180,Patna,Kolkata,DTDC,Medium,25.7,2024.27,2.8,Delivered,2025-05-29
+SH00181,Patna,Delhi,BlueDart,Large,12.56,3312.64,4.1,In Transit,2025-10-31
+SH00182,Pune,Mumbai,Delhivery,Large,26.96,4129.56,2.6,Delivered,2026-09-17
+SH00183,Delhi,Mumbai,BlueDart,Medium,31.5,3175.91,1.5,In Transit,2025-06-05
+SH00184,Delhi,Mumbai,Delhivery,Large,36.72,130.33,2.2,Delivered,2025-12-10
+SH00185,Delhi,Kolkata,BlueDart,Small,33.71,4868.62,0.5,Delivered,2025-12-28
+SH00186,Mumbai,Mumbai,BlueDart,Document,38.85,2284.33,5.2,Delivered,2025-02-22
+SH00187,Mumbai,Patna,EcomExpress,Medium,16.93,160.47,2.2,Delivered,2026-06-24
+SH00188,Kolkata,Bangalore,EcomExpress,Small,15.65,3685.43,3.7,Delivered,2025-03-30
+SH00189,Kolkata,Delhi,DTDC,Large,9.82,1605.39,2.9,Delivered,2026-05-12
+SH00190,Kolkata,Patna,EcomExpress,Small,9.45,4957.36,5.1,Delivered,2026-03-09
+SH00191,Pune,Patna,Delhivery,Large,5.73,1063.39,4.4,Delivered,2026-08-08
+SH00192,Delhi,Delhi,Delhivery,Small,14.47,3188.82,2.0,In Transit,2026-01-17
+SH00193,Kolkata,Mumbai,BlueDart,Medium,12.55,4211.0,4.0,Delivered,2026-05-29
+SH00194,Kolkata,Kolkata,Delhivery,Large,10.81,4374.42,2.8,Delayed,2026-08-17
+SH00195,Pune,Patna,EcomExpress,Small,5.92,1832.3,3.2,Delivered,2026-03-10
+SH00196,Delhi,Delhi,EcomExpress,Small,38.85,3400.46,4.3,Delivered,2025-05-07
+SH00197,Delhi,Mumbai,DTDC,Small,25.36,250.8,5.4,In Transit,2026-03-15
+SH00198,Kolkata,Bangalore,Delhivery,Medium,1.17,2226.88,4.2,Delivered,2025-12-24
+SH00199,Kolkata,Delhi,BlueDart,Small,38.96,1730.91,3.0,Delivered,2025-02-03
+SH00200,Delhi,Mumbai,DTDC,Small,9.26,228.87,6.2,Delivered,2025-02-09
+SH00201,Kolkata,Delhi,Delhivery,Large,37.79,3806.51,4.7,Delivered,2025-07-22
+SH00202,Kolkata,Bangalore,DTDC,Large,28.41,1904.44,2.6,Delivered,2025-05-30
+SH00203,Patna,Patna,BlueDart,Document,1.24,4894.27,3.0,Delayed,2025-02-25
+SH00204,Mumbai,Bangalore,EcomExpress,Medium,25.58,2636.78,4.0,Delivered,2025-04-26
+SH00205,Pune,Bangalore,EcomExpress,Small,17.45,2413.14,4.9,Delivered,2025-06-27
+SH00206,Patna,Kolkata,EcomExpress,Document,1.18,4114.22,3.1,Delivered,2025-09-21
+SH00207,Delhi,Bangalore,Delhivery,Document,6.06,3826.9,3.6,Delivered,2026-05-10
+SH00208,Pune,Mumbai,Delhivery,Document,8.18,2008.99,2.8,Delivered,2025-02-16
+SH00209,Delhi,Patna,Delhivery,Document,35.94,3224.49,3.7,Delivered,2025-04-10
+SH00210,Mumbai,Mumbai,Delhivery,Small,17.81,4545.57,4.4,Delivered,2025-09-17
+SH00211,Delhi,Delhi,Delhivery,Small,4.79,118.0,2.4,Delivered,2026-05-22
+SH00212,Pune,Delhi,DTDC,Document,30.04,4233.55,1.2,In Transit,2025-12-28
+SH00213,Kolkata,Kolkata,Delhivery,Document,24.13,3659.16,1.9,Delivered,2025-07-25
+SH00214,Delhi,Bangalore,DTDC,Small,2.86,4300.14,5.0,Delivered,2025-02-03
+SH00215,Pune,Patna,Delhivery,Small,2.44,1668.34,2.5,Delivered,2025-12-15
+SH00216,Patna,Delhi,DTDC,Large,36.21,2292.2,3.2,Delivered,2025-09-26
+SH00217,Delhi,Kolkata,DTDC,Document,9.76,225.07,2.3,Delivered,2026-07-26
+SH00218,Kolkata,Bangalore,Delhivery,Small,31.12,874.59,2.8,In Transit,2025-12-30
+SH00219,Pune,Mumbai,BlueDart,Medium,8.7,3315.91,0.6,Delivered,2025-07-16
+SH00220,Delhi,Patna,DTDC,Large,39.5,334.05,4.4,Delivered,2025-12-06
+SH00221,Kolkata,Patna,EcomExpress,Document,15.43,1797.08,3.3,In Transit,2025-01-01
+SH00222,Mumbai,Delhi,EcomExpress,Small,21.94,4894.12,2.6,Delivered,2026-04-09
+SH00223,Mumbai,Kolkata,EcomExpress,Medium,6.41,3087.47,2.8,Delayed,2025-01-10
+SH00224,Kolkata,Patna,DTDC,Large,18.14,1753.95,3.9,Delivered,2025-04-30
+SH00225,Patna,Kolkata,Delhivery,Medium,19.75,1191.38,3.5,Delivered,2026-08-02
+SH00226,Patna,Kolkata,BlueDart,Medium,17.44,2203.85,4.8,Delivered,2025-11-06
+SH00227,Delhi,Bangalore,Delhivery,Document,10.73,1561.59,0.9,Delivered,2026-03-08
+SH00228,Mumbai,Kolkata,BlueDart,Medium,3.74,3117.59,5.9,Delivered,2025-04-17
+SH00229,Patna,Patna,DTDC,Small,10.87,1868.57,5.3,Delivered,2025-04-12
+SH00230,Delhi,Bangalore,BlueDart,Medium,20.22,965.52,4.5,Delayed,2026-01-14
+SH00231,Kolkata,Bangalore,EcomExpress,Large,19.25,2393.31,5.6,Delivered,2025-06-02
+SH00232,Patna,Bangalore,BlueDart,Large,33.19,3757.06,4.6,Delivered,2026-03-20
+SH00233,Kolkata,Kolkata,Delhivery,Small,12.4,1145.04,1.4,Delivered,2026-05-12
+SH00234,Patna,Bangalore,DTDC,Large,30.84,937.52,3.7,Delivered,2026-07-22
+SH00235,Kolkata,Kolkata,EcomExpress,Small,31.46,230.57,3.6,Delivered,2026-08-02
+SH00236,Pune,Patna,Delhivery,Small,30.85,2894.18,3.3,Delivered,2026-09-10
+SH00237,Mumbai,Delhi,DTDC,Large,19.0,2905.63,1.9,In Transit,2025-09-29
+SH00238,Kolkata,Mumbai,BlueDart,Document,37.12,2499.28,6.5,Lost,2026-04-10
+SH00239,Kolkata,Bangalore,BlueDart,Document,22.14,1084.24,3.2,Delivered,2026-07-04
+SH00240,Pune,Delhi,BlueDart,Document,23.01,1904.44,2.7,Delivered,2025-06-29
+SH00241,Pune,Kolkata,EcomExpress,Medium,4.67,3226.2,2.0,Delivered,2025-11-30
+SH00242,Mumbai,Mumbai,EcomExpress,Small,17.21,1108.77,5.2,Delayed,2025-11-12
+SH00243,Mumbai,Patna,EcomExpress,Document,36.1,577.04,4.3,Delivered,2026-05-05
+SH00244,Pune,Patna,Delhivery,Medium,11.26,2123.06,6.2,Delivered,2026-02-01
+SH00245,Mumbai,Kolkata,EcomExpress,Small,20.02,2422.89,5.4,Delivered,2026-03-02
+SH00246,Mumbai,Bangalore,EcomExpress,Large,37.66,1251.12,0.5,Delivered,2025-05-12
+SH00247,Delhi,Kolkata,Delhivery,Large,37.67,795.14,4.2,Delivered,2025-04-26
+SH00248,Mumbai,Kolkata,EcomExpress,Large,4.44,3206.38,2.4,Delayed,2026-09-06
+SH00249,Delhi,Delhi,Delhivery,Medium,4.66,4468.34,3.4,Delivered,2025-07-24
+SH00250,Kolkata,Bangalore,Delhivery,Large,33.84,2605.04,7.8,Delivered,2026-06-23
+SH00251,Patna,Patna,Delhivery,Small,35.84,2154.23,3.8,Delivered,2025-04-19
+SH00252,Kolkata,Kolkata,DTDC,Large,3.23,3889.33,0.5,In Transit,2025-01-09
+SH00253,Patna,Patna,BlueDart,Large,18.67,2506.88,1.5,Delivered,2026-07-25
+SH00254,Pune,Mumbai,EcomExpress,Document,19.96,1449.34,2.9,Delivered,2026-05-02
+SH00255,Patna,Mumbai,Delhivery,Small,6.73,485.48,1.8,Delivered,2025-12-21
+SH00256,Kolkata,Bangalore,Delhivery,Medium,3.4,3792.13,2.7,Delivered,2026-07-11
+SH00257,Mumbai,Delhi,EcomExpress,Large,26.56,2496.23,0.8,Delayed,2025-09-01
+SH00258,Mumbai,Delhi,BlueDart,Large,19.29,3945.72,4.4,Delivered,2026-07-20
+SH00259,Mumbai,Delhi,Delhivery,Small,29.21,2588.86,5.6,Delivered,2026-03-21
+SH00260,Pune,Patna,Delhivery,Medium,12.17,1154.43,2.4,Delivered,2025-10-03
+SH00261,Mumbai,Delhi,Delhivery,Medium,29.34,2985.79,1.8,Delayed,2025-05-22
+SH00262,Patna,Delhi,EcomExpress,Document,10.09,1385.49,3.3,Delivered,2026-08-10
+SH00263,Patna,Bangalore,BlueDart,Large,35.17,2755.9,1.6,Delivered,2025-04-21
+SH00264,Mumbai,Delhi,EcomExpress,Document,20.49,92.08,5.7,Delivered,2026-08-11
+SH00265,Pune,Delhi,BlueDart,Document,33.87,2444.86,0.8,Delivered,2025-12-29
+SH00266,Patna,Mumbai,EcomExpress,Small,5.57,4277.38,1.8,In Transit,2025-05-02
+SH00267,Delhi,Kolkata,Delhivery,Small,31.62,612.99,4.1,Delivered,2026-05-01
+SH00268,Kolkata,Delhi,EcomExpress,Large,15.09,996.83,4.2,Delivered,2026-03-10
+SH00269,Patna,Patna,BlueDart,Large,31.81,1779.92,4.1,Delivered,2025-04-24
+SH00270,Kolkata,Patna,DTDC,Document,20.83,4254.37,0.5,Delayed,2025-07-18
+SH00271,Patna,Patna,DTDC,Small,21.43,3140.12,4.0,Delivered,2025-12-14
+SH00272,Patna,Mumbai,EcomExpress,Document,27.98,1160.85,3.8,Delivered,2025-11-04
+SH00273,Kolkata,Kolkata,Delhivery,Medium,16.83,3013.22,4.9,Delivered,2025-07-01
+SH00274,Mumbai,Patna,Delhivery,Small,0.38,4063.52,4.5,Delivered,2026-09-03
+SH00275,Patna,Mumbai,Delhivery,Medium,13.09,1524.83,0.5,Delivered,2026-08-10
+SH00276,Pune,Patna,Delhivery,Medium,13.17,2780.57,2.2,Delivered,2026-08-16
+SH00277,Kolkata,Patna,DTDC,Small,23.97,4440.74,4.5,Delivered,2026-09-05
+SH00278,Patna,Mumbai,Delhivery,Large,36.58,3742.9,3.2,In Transit,2026-08-15
+SH00279,Mumbai,Kolkata,DTDC,Medium,9.14,2467.83,4.0,Delivered,2025-07-20
+SH00280,Patna,Kolkata,Delhivery,Medium,24.57,508.93,1.6,Delivered,2026-01-13
+SH00281,Patna,Kolkata,EcomExpress,Large,26.66,632.14,6.6,Delivered,2026-06-08
+SH00282,Pune,Mumbai,BlueDart,Small,20.16,3505.86,4.6,Delivered,2025-01-10
+SH00283,Kolkata,Delhi,Delhivery,Document,2.25,4482.22,1.2,Delivered,2026-02-21
+SH00284,Delhi,Mumbai,Delhivery,Large,3.53,2090.38,3.5,Delivered,2025-10-17
+SH00285,Kolkata,Bangalore,DTDC,Medium,18.46,2750.47,4.5,Delivered,2026-02-21
+SH00286,Kolkata,Mumbai,EcomExpress,Medium,12.45,161.17,3.1,Delivered,2025-06-10
+SH00287,Pune,Patna,EcomExpress,Small,18.15,2297.55,1.1,Delivered,2026-05-17
+SH00288,Mumbai,Kolkata,DTDC,Small,19.81,104.77,5.7,Delivered,2026-05-29
+SH00289,Kolkata,Kolkata,EcomExpress,Large,33.61,301.59,3.3,Delivered,2025-10-11
+SH00290,Delhi,Kolkata,Delhivery,Medium,5.13,3470.73,3.8,Delivered,2025-12-27
+SH00291,Kolkata,Mumbai,BlueDart,Large,13.72,4882.18,4.8,Delivered,2026-04-22
+SH00292,Patna,Delhi,EcomExpress,Large,36.0,4019.61,0.6,Delivered,2025-08-21
+SH00293,Delhi,Delhi,DTDC,Small,36.42,2750.93,2.0,Delayed,2025-02-09
+SH00294,Delhi,Kolkata,Delhivery,Document,24.1,3494.26,3.7,Delivered,2025-10-12
+SH00295,Pune,Mumbai,BlueDart,Document,39.47,1954.7,3.0,Delivered,2025-04-19
+SH00296,Pune,Bangalore,Delhivery,Large,12.38,2442.74,3.6,In Transit,2025-08-31
+SH00297,Delhi,Delhi,EcomExpress,Medium,31.61,3103.35,3.7,Delivered,2025-05-22
+SH00298,Mumbai,Delhi,DTDC,Medium,34.92,3952.5,2.0,Delivered,2025-10-13
+SH00299,Patna,Mumbai,BlueDart,Large,33.33,4941.15,4.4,Delivered,2026-03-19
+SH00300,Patna,Delhi,DTDC,Document,12.1,4399.75,6.3,In Transit,2025-11-06
+SH00301,Patna,Patna,EcomExpress,Medium,22.51,690.58,4.9,In Transit,2026-05-09
+SH00302,Kolkata,Bangalore,EcomExpress,Document,5.87,1756.68,2.4,Delivered,2025-06-09
+SH00303,Delhi,Delhi,BlueDart,Small,29.27,1884.82,1.2,Delivered,2025-10-17
+SH00304,Kolkata,Kolkata,Delhivery,Medium,23.05,2523.26,5.4,Delivered,2025-11-20
+SH00305,Delhi,Patna,BlueDart,Medium,38.81,2995.02,3.6,In Transit,2025-01-11
+SH00306,Pune,Bangalore,BlueDart,Medium,2.17,147.29,2.9,Delayed,2025-02-09
+SH00307,Patna,Patna,EcomExpress,Document,16.02,3037.9,3.9,Delivered,2026-08-01
+SH00308,Delhi,Delhi,EcomExpress,Medium,1.4,1426.75,2.1,Delayed,2026-05-31
+SH00309,Kolkata,Bangalore,Delhivery,Small,35.42,4305.31,2.9,In Transit,2025-05-19
+SH00310,Mumbai,Bangalore,EcomExpress,Small,4.34,286.35,5.5,Delivered,2026-09-08
+SH00311,Kolkata,Delhi,BlueDart,Document,6.68,376.73,2.6,Delivered,2026-06-02
+SH00312,Pune,Delhi,BlueDart,Medium,31.2,3607.07,5.0,Delivered,2025-10-01
+SH00313,Kolkata,Delhi,EcomExpress,Medium,13.49,2075.48,3.4,Delivered,2026-09-25
+SH00314,Kolkata,Patna,BlueDart,Large,24.39,2650.75,5.5,Delivered,2025-02-08
+SH00315,Kolkata,Delhi,DTDC,Small,15.73,3639.47,6.3,Delivered,2026-05-16
+SH00316,Delhi,Kolkata,DTDC,Large,37.1,3416.24,5.7,In Transit,2025-08-13
+SH00317,Delhi,Kolkata,DTDC,Small,39.36,4302.53,6.2,Delivered,2026-09-17
+SH00318,Mumbai,Kolkata,Delhivery,Document,14.3,431.99,4.1,Delivered,2025-10-21
+SH00319,Patna,Kolkata,EcomExpress,Large,1.66,2441.19,2.2,Delivered,2025-09-25
+SH00320,Delhi,Patna,DTDC,Small,1.54,1314.59,3.0,In Transit,2026-07-20
+SH00321,Patna,Patna,Delhivery,Medium,27.07,3762.64,5.0,Delayed,2025-08-21
+SH00322,Delhi,Mumbai,Delhivery,Small,7.22,2980.41,3.1,Delivered,2025-01-15
+SH00323,Delhi,Patna,DTDC,Large,13.42,3449.99,0.8,Delayed,2026-08-28
+SH00324,Patna,Mumbai,BlueDart,Large,1.4,740.02,4.9,Delivered,2026-08-08
+SH00325,Pune,Kolkata,BlueDart,Small,1.03,4435.83,5.4,Delivered,2026-04-23
+SH00326,Patna,Patna,DTDC,Document,8.33,802.81,3.2,In Transit,2026-02-14
+SH00327,Pune,Bangalore,EcomExpress,Large,1.85,1785.02,3.9,Delivered,2026-07-20
+SH00328,Kolkata,Bangalore,BlueDart,Small,34.25,4622.03,2.9,Delivered,2025-12-15
+SH00329,Patna,Kolkata,Delhivery,Large,11.72,933.1,0.5,Delivered,2025-03-03
+SH00330,Mumbai,Delhi,BlueDart,Small,21.57,1252.97,2.7,Delivered,2025-10-16
+SH00331,Pune,Bangalore,Delhivery,Large,39.23,540.55,2.4,Delivered,2026-05-06
+SH00332,Delhi,Kolkata,BlueDart,Small,19.31,2666.75,1.7,Delivered,2026-09-16
+SH00333,Delhi,Kolkata,Delhivery,Medium,7.32,1447.08,3.0,Delivered,2025-02-13
+SH00334,Delhi,Mumbai,BlueDart,Medium,13.47,151.33,2.1,Delayed,2026-08-30
+SH00335,Kolkata,Mumbai,BlueDart,Large,21.1,1446.33,3.7,Delivered,2026-09-02
+SH00336,Delhi,Kolkata,BlueDart,Document,23.86,1589.98,2.9,Delivered,2026-07-09
+SH00337,Patna,Patna,Delhivery,Document,35.51,2688.78,3.0,Delivered,2025-10-12
+SH00338,Pune,Kolkata,DTDC,Medium,28.2,1112.34,1.9,Delivered,2025-03-20
+SH00339,Pune,Patna,EcomExpress,Large,24.69,4007.33,1.3,In Transit,2025-11-30
+SH00340,Kolkata,Mumbai,EcomExpress,Small,21.76,4329.96,1.0,In Transit,2026-06-20
+SH00341,Pune,Delhi,BlueDart,Large,25.26,1757.03,4.2,Delivered,2026-06-23
+SH00342,Delhi,Bangalore,DTDC,Small,1.07,2655.09,1.5,Delivered,2025-11-13
+SH00343,Delhi,Bangalore,Delhivery,Large,25.48,3013.24,2.7,Delivered,2025-05-12
+SH00344,Mumbai,Bangalore,DTDC,Large,2.5,298.85,4.8,Delivered,2025-05-06
+SH00345,Pune,Bangalore,DTDC,Medium,15.2,2750.36,6.3,Delivered,2025-06-09
+SH00346,Mumbai,Delhi,BlueDart,Large,32.55,4924.92,3.4,Delayed,2025-10-25
+SH00347,Delhi,Delhi,BlueDart,Document,30.76,4098.05,2.0,Delivered,2025-08-11
+SH00348,Pune,Kolkata,BlueDart,Medium,18.2,3014.7,4.5,Lost,2025-05-08
+SH00349,Mumbai,Mumbai,EcomExpress,Small,18.9,4043.32,4.6,Delivered,2025-12-11
+SH00350,Delhi,Bangalore,Delhivery,Small,29.9,1951.76,2.9,Delivered,2025-08-03
+SH00351,Patna,Kolkata,BlueDart,Large,38.14,3369.02,4.6,Delivered,2025-03-16
+SH00352,Pune,Patna,EcomExpress,Medium,27.38,3832.74,0.5,Delivered,2026-01-09
+SH00353,Kolkata,Delhi,BlueDart,Medium,7.28,4956.32,5.5,Delayed,2026-07-27
+SH00354,Patna,Delhi,DTDC,Small,34.42,4501.57,4.1,In Transit,2026-04-05
+SH00355,Patna,Kolkata,DTDC,Medium,20.59,3242.27,0.6,Delivered,2025-10-28
+SH00356,Mumbai,Mumbai,Delhivery,Medium,3.45,4840.52,3.4,Delivered,2025-09-07
+SH00357,Mumbai,Patna,DTDC,Medium,22.62,4647.83,3.7,Delivered,2026-05-20
+SH00358,Pune,Delhi,DTDC,Small,23.08,824.51,3.3,Delivered,2025-09-10
+SH00359,Patna,Delhi,Delhivery,Small,19.84,2967.85,5.1,Delivered,2025-01-14
+SH00360,Pune,Kolkata,EcomExpress,Document,4.38,821.22,5.3,Delivered,2025-10-21
+SH00361,Mumbai,Delhi,DTDC,Small,10.44,4327.92,2.5,Delivered,2026-04-07
+SH00362,Pune,Kolkata,EcomExpress,Document,14.86,1841.32,5.4,Delivered,2026-05-24
+SH00363,Mumbai,Bangalore,DTDC,Document,24.46,3119.24,4.9,Delivered,2026-05-24
+SH00364,Patna,Kolkata,BlueDart,Small,25.76,3885.24,1.4,Delayed,2025-09-23
+SH00365,Kolkata,Kolkata,DTDC,Large,21.03,1705.57,7.5,In Transit,2025-08-14
+SH00366,Patna,Delhi,Delhivery,Medium,8.44,2093.07,3.1,In Transit,2026-02-13
+SH00367,Delhi,Kolkata,Delhivery,Document,15.2,103.05,5.6,Delayed,2026-01-10
+SH00368,Patna,Delhi,BlueDart,Medium,15.72,4303.33,6.5,Delivered,2026-09-15
+SH00369,Patna,Patna,Delhivery,Large,22.47,4486.68,2.9,Delayed,2026-06-02
+SH00370,Patna,Delhi,EcomExpress,Document,38.99,385.49,4.0,In Transit,2026-06-06
+SH00371,Patna,Kolkata,DTDC,Document,7.07,4383.51,5.1,In Transit,2025-02-25
+SH00372,Kolkata,Delhi,Delhivery,Medium,7.91,4198.91,2.9,Delivered,2025-09-17
+SH00373,Mumbai,Kolkata,BlueDart,Small,27.43,4788.94,3.7,Delayed,2026-09-10
+SH00374,Pune,Patna,BlueDart,Document,20.42,2269.87,4.4,Delivered,2026-08-02
+SH00375,Pune,Patna,Delhivery,Large,1.76,4233.73,5.2,Delivered,2025-01-05
+SH00376,Pune,Kolkata,Delhivery,Medium,32.01,1653.62,2.2,Delayed,2025-06-06
+SH00377,Mumbai,Patna,Delhivery,Large,8.66,1656.54,6.3,In Transit,2025-01-10
+SH00378,Kolkata,Mumbai,Delhivery,Small,32.72,212.72,1.3,Delivered,2026-07-31
+SH00379,Patna,Delhi,DTDC,Small,20.24,2598.15,3.4,Delivered,2025-10-16
+SH00380,Patna,Patna,BlueDart,Medium,25.5,1412.86,3.5,Delivered,2026-01-25

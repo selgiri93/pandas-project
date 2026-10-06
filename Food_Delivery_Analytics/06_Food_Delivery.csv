@@ -1,0 +1,403 @@
+order_id,customer_id,restaurant,city,cuisine,order_value,delivery_fee,delivery_minutes,rating,order_status,order_date
+FD00001,C0024,Food Corner,Pune,Italian,1032.05,123.74,26.0,2.0,Delivered,2025-02-04
+FD00002,C0025,Tandoori House,Pune,Italian,1373.19,31.22,41.0,4.1,Delivered,2025-04-21
+FD00003,C0177,Tandoori House,Pune,Fast Food,2386.72,22.59,38.0,3.6,Delivered,2025-03-31
+FD00004,C0162,Spice Hub,Mumbai,Italian,1545.4,82.6,27.0,2.9,Delivered,2025-05-06
+FD00005,C0031,Tandoori House,Kolkata,Fast Food,1009.57,66.27,31.0,2.3,Delivered,2025-11-08
+FD00006,C0059,Urban Bites,Delhi,South Indian,2340.66,110.12,53.0,1.9,Delivered,2025-09-07
+FD00007,C0067,Green Bowl,Patna,Indian,1363.88,118.67,42.0,3.4,Delivered,2026-08-27
+FD00008,C0172,Cafe 24,Pune,South Indian,2352.1,77.64,37.0,4.0,Delivered,2026-05-15
+FD00009,C0055,Tandoori House,Patna,Indian,1135.92,120.66,44.0,3.8,Delivered,2026-01-12
+FD00010,C0060,Green Bowl,Kolkata,South Indian,2063.64,69.3,25.0,2.2,Late,2025-08-17
+FD00011,C0136,Urban Bites,Kolkata,Italian,1584.32,141.87,44.0,3.1,Delivered,2026-05-04
+FD00012,C0145,Spice Hub,Pune,South Indian,305.31,23.08,39.0,3.1,Delivered,2025-02-14
+FD00013,C0112,Tandoori House,Kolkata,Chinese,1215.65,109.87,50.0,,Delivered,2026-03-01
+FD00014,C0014,Urban Bites,Patna,Indian,489.35,57.94,64.0,1.1,Delivered,2026-03-21
+FD00015,C0188,Urban Bites,Mumbai,Indian,2202.47,45.32,52.0,4.3,Cancelled,2026-05-19
+FD00016,C0216,Urban Bites,Delhi,Indian,2232.04,131.08,21.0,1.6,Delivered,2026-07-16
+FD00017,C0129,Cafe 24,Pune,Italian,1799.36,101.97,37.0,2.6,Delivered,2026-09-01
+FD00018,C0209,Food Corner,Kolkata,Italian,1617.95,103.98,50.0,2.1,Delivered,2025-02-07
+FD00019,C0017,Green Bowl,Delhi,Italian,161.07,22.23,72.0,3.6,Delivered,2026-01-16
+FD00020,C0006,Tandoori House,Pune,Chinese,1507.14,45.48,24.0,3.6,Delivered,2025-03-28
+FD00021,C0205,Spice Hub,Mumbai,Chinese,320.35,115.21,15.0,1.7,Cancelled,2026-08-02
+FD00022,C0141,Food Corner,Bangalore,Chinese,1077.23,129.44,54.0,1.5,Cancelled,2026-07-20
+FD00023,C0117,Food Corner,Bangalore,Chinese,1688.7,99.94,18.0,2.8,Delivered,2025-06-15
+FD00024,C0185,Urban Bites,Bangalore,Fast Food,237.84,84.15,45.0,4.1,Delivered,2026-04-02
+FD00025,C0120,Green Bowl,Pune,Indian,2378.04,38.56,29.0,3.6,Delivered,2025-01-02
+FD00026,C0216,Tandoori House,Kolkata,South Indian,1369.31,145.96,33.0,2.7,Cancelled,2026-06-28
+FD00027,C0030,Spice Hub,Bangalore,Fast Food,2018.45,147.6,20.0,3.9,Delivered,2025-11-28
+FD00028,C0158,Food Corner,Mumbai,South Indian,2412.26,55.08,21.0,3.7,Delivered,2025-10-25
+FD00029,C0060,Spice Hub,Pune,Fast Food,165.48,98.75,39.0,3.5,Delivered,2025-11-17
+FD00030,C0043,Urban Bites,Delhi,South Indian,1392.51,78.98,21.0,3.3,Delivered,2025-02-08
+FD00031,C0208,Spice Hub,Bangalore,Italian,1165.2,118.15,42.0,3.8,Delivered,2025-05-05
+FD00032,C0117,Cafe 24,Patna,Chinese,1336.46,22.14,11.0,3.7,Delivered,2025-05-05
+FD00033,C0067,Tandoori House,Pune,Indian,1868.71,134.09,32.0,1.2,Delivered,2026-07-18
+FD00034,C0115,Tandoori House,Delhi,Indian,1102.37,100.97,47.0,3.8,Delivered,2025-02-19
+FD00035,C0071,,Delhi,Fast Food,208.51,82.9,10.0,1.8,Delivered,2025-01-31
+FD00036,C0211,Food Corner,Kolkata,Fast Food,1424.74,125.27,46.0,4.1,Delivered,2026-08-06
+FD00037,C0184,Cafe 24,Delhi,Italian,573.4,66.42,35.0,4.0,Delivered,2025-10-06
+FD00038,C0167,Green Bowl,Delhi,Italian,686.5,110.59,23.0,1.9,Delivered,2026-01-22
+FD00039,C0020,Urban Bites,Mumbai,Italian,1467.91,22.05,35.0,3.6,Delivered,2025-10-04
+FD00040,C0049,Urban Bites,Delhi,Fast Food,1914.97,24.65,33.0,1.7,Delivered,2026-09-14
+FD00041,C0101,Green Bowl,Patna,South Indian,1758.17,65.6,51.0,2.4,Delivered,2026-02-03
+FD00042,C0129,Food Corner,Kolkata,Italian,2038.36,42.34,37.0,3.1,Delivered,2025-01-02
+FD00043,C0211,Urban Bites,Mumbai,South Indian,229.13,82.63,39.0,4.7,Delivered,2025-12-03
+FD00044,C0041,Cafe 24,Mumbai,Indian,1903.15,149.24,50.0,1.3,Cancelled,2025-11-07
+FD00045,C0016,Urban Bites,Pune,Chinese,1754.9,41.79,32.0,3.5,Delivered,2025-09-26
+FD00046,C0051,Urban Bites,Bangalore,Indian,470.53,112.75,44.0,2.9,Delivered,2025-08-15
+FD00047,C0011,Urban Bites,Mumbai,Chinese,1918.16,43.81,22.0,3.2,Delivered,2026-07-14
+FD00048,C0132,Spice Hub,Patna,Fast Food,2286.17,126.98,39.0,4.9,Delivered,2025-07-17
+FD00049,C0016,Green Bowl,Bangalore,Italian,314.59,66.39,47.0,1.2,Delivered,2025-05-24
+FD00050,C0075,Tandoori House,Bangalore,Italian,843.52,68.62,21.0,4.0,Delivered,2025-08-04
+FD00051,C0117,Cafe 24,Delhi,Chinese,381.34,23.88,50.0,1.7,Delivered,2025-05-01
+FD00052,C0128,Food Corner,Kolkata,Fast Food,1322.73,87.74,29.0,1.5,Delivered,2025-04-01
+FD00053,C0031,Spice Hub,Kolkata,Italian,447.06,48.52,24.0,2.4,Delivered,2026-06-11
+FD00054,C0092,Urban Bites,Pune,Indian,2458.1,139.91,53.0,1.9,Late,2025-08-21
+FD00055,C0192,Green Bowl,Patna,Fast Food,1964.55,108.89,53.0,4.5,Delivered,2025-05-10
+FD00056,C0164,Urban Bites,Bangalore,Indian,953.53,84.67,46.0,3.2,Delivered,2025-03-05
+FD00057,C0048,Green Bowl,Pune,Fast Food,2344.37,76.49,37.0,3.4,Cancelled,2025-09-07
+FD00058,C0048,Tandoori House,Patna,Chinese,524.3,125.08,57.0,3.7,Cancelled,2026-07-17
+FD00059,C0145,Spice Hub,Bangalore,Chinese,416.13,92.93,20.0,2.5,Delivered,2026-07-04
+FD00060,C0084,Food Corner,Mumbai,Indian,671.55,31.8,19.0,4.8,Delivered,2026-07-30
+FD00061,C0011,Spice Hub,Patna,Indian,1686.12,23.97,52.0,3.0,Delivered,2026-05-16
+FD00062,C0107,Cafe 24,Pune,Italian,315.88,23.14,35.0,1.3,Late,2026-07-15
+FD00063,C0100,Tandoori House,Delhi,Fast Food,1684.36,109.89,46.0,4.0,Delivered,2026-06-11
+FD00064,C0050,Spice Hub,Patna,Italian,828.1,123.94,22.0,1.1,Delivered,2025-10-18
+FD00065,C0079,Spice Hub,Delhi,Fast Food,903.47,106.24,50.0,3.1,Delivered,2026-04-02
+FD00066,C0115,Spice Hub,Pune,South Indian,533.93,71.07,50.0,2.2,Delivered,2026-05-01
+FD00067,C0001,Spice Hub,Kolkata,Indian,2372.5,55.47,34.0,2.7,Delivered,2025-10-19
+FD00068,C0091,Green Bowl,Delhi,Fast Food,1475.62,46.11,18.0,2.8,Delivered,2026-05-19
+FD00069,C0164,Spice Hub,Patna,Italian,2174.2,111.31,58.0,2.3,Delivered,2025-05-13
+FD00070,C0054,Tandoori House,Mumbai,Chinese,520.74,45.66,26.0,2.3,Cancelled,2026-05-11
+FD00071,C0161,Urban Bites,Kolkata,Italian,1684.13,46.8,43.0,4.6,Cancelled,2025-03-25
+FD00072,C0117,Cafe 24,Bangalore,South Indian,519.95,81.99,21.0,3.8,Late,2025-07-30
+FD00073,C0112,Cafe 24,Delhi,Chinese,1969.46,68.56,45.0,1.1,Delivered,2026-03-20
+FD00074,C0147,Tandoori House,Patna,Fast Food,807.13,69.42,39.0,2.4,Late,2025-02-21
+FD00075,C0077,Urban Bites,Delhi,Chinese,1862.6,112.54,30.0,2.4,Late,2025-04-03
+FD00076,C0087,Food Corner,Kolkata,Indian,390.94,131.7,52.0,4.6,Delivered,2026-02-07
+FD00077,C0061,Cafe 24,Pune,Italian,1447.65,39.74,43.0,4.4,Delivered,2025-05-04
+FD00078,C0136,Green Bowl,Mumbai,South Indian,1264.8,128.26,10.0,1.9,Delivered,2025-06-24
+FD00079,C0054,Cafe 24,Kolkata,Indian,2156.15,92.72,21.0,4.1,Delivered,2025-04-24
+FD00080,C0024,Tandoori House,Kolkata,Fast Food,2131.66,135.97,27.0,2.9,Delivered,2025-05-04
+FD00081,C0166,Green Bowl,Bangalore,Chinese,2405.72,141.64,36.0,2.7,Cancelled,2025-07-23
+FD00082,C0136,Tandoori House,Patna,Indian,1267.1,52.37,19.0,,Cancelled,2026-01-26
+FD00083,C0212,Urban Bites,Mumbai,South Indian,1825.72,40.87,48.0,2.1,Delivered,2025-04-06
+FD00084,C0155,Green Bowl,Bangalore,Italian,1570.44,64.07,25.0,1.4,Delivered,2025-04-15
+FD00085,C0144,Food Corner,Pune,Fast Food,549.59,120.14,33.0,1.1,Delivered,2026-03-15
+FD00086,C0026,Green Bowl,Kolkata,Fast Food,2269.2,62.52,33.0,3.9,Late,2026-04-30
+FD00087,C0151,Green Bowl,Pune,Indian,1392.76,51.39,28.0,4.1,Delivered,2025-01-28
+FD00088,C0170,Tandoori House,Patna,Chinese,308.26,43.3,25.0,2.6,Delivered,2025-10-17
+FD00089,C0140,Food Corner,Kolkata,Fast Food,162.47,56.01,43.0,2.3,Late,2026-09-05
+FD00090,C0198,Urban Bites,Patna,Italian,1441.36,55.01,48.0,1.6,Delivered,2026-04-26
+FD00091,C0132,Food Corner,Mumbai,Chinese,1468.04,133.16,31.0,4.3,Delivered,2025-08-12
+FD00092,C0103,Tandoori House,Pune,South Indian,2411.5,110.08,42.0,1.8,Cancelled,2025-02-19
+FD00093,C0171,Green Bowl,Delhi,Fast Food,472.46,111.3,29.0,4.6,Delivered,2026-03-10
+FD00094,C0155,Food Corner,Delhi,Chinese,1040.26,125.56,50.0,1.9,Delivered,2025-05-20
+FD00095,C0020,Spice Hub,Bangalore,Indian,167.02,144.41,43.0,2.5,Cancelled,2026-09-22
+FD00096,C0195,Urban Bites,Bangalore,South Indian,2129.07,146.24,21.0,3.8,Delivered,2025-06-11
+FD00097,C0139,Cafe 24,Kolkata,Chinese,1592.43,73.15,35.0,4.8,Delivered,2026-09-25
+FD00098,C0067,Spice Hub,Pune,Indian,582.82,121.64,19.0,3.7,Late,2026-09-01
+FD00099,C0101,Cafe 24,Patna,South Indian,1382.09,26.16,49.0,3.4,Delivered,2026-06-04
+FD00100,C0098,,Kolkata,Chinese,2148.73,134.0,40.0,1.2,Delivered,2025-12-27
+FD00101,C0117,Urban Bites,Delhi,Chinese,1498.04,51.37,15.0,1.6,Delivered,2026-08-07
+FD00102,C0055,Cafe 24,Pune,South Indian,2303.25,122.62,33.0,1.6,Delivered,2026-09-26
+FD00103,C0074,Food Corner,Pune,South Indian,1343.03,95.79,43.0,2.3,Late,2026-01-14
+FD00104,C0172,Cafe 24,Bangalore,South Indian,2257.95,135.56,20.0,3.6,Delivered,2025-10-22
+FD00105,C0038,Tandoori House,Bangalore,Italian,1089.78,61.11,59.0,4.1,Delivered,2025-11-20
+FD00106,C0206,Cafe 24,Kolkata,Chinese,174.09,118.95,47.0,3.3,Delivered,2026-09-19
+FD00107,C0020,Food Corner,Kolkata,Italian,1647.86,103.57,44.0,2.0,Late,2025-07-13
+FD00108,C0002,Urban Bites,Kolkata,Chinese,1970.65,105.41,47.0,4.9,Delivered,2026-09-03
+FD00109,C0064,Spice Hub,Delhi,Fast Food,953.16,146.26,28.0,4.2,Delivered,2025-03-18
+FD00110,C0156,Tandoori House,Mumbai,South Indian,2116.54,85.57,30.0,2.8,Delivered,2025-05-13
+FD00111,C0157,Food Corner,Patna,Indian,1183.94,78.85,24.0,1.4,Delivered,2026-03-20
+FD00112,C0068,Urban Bites,Bangalore,Italian,615.44,49.82,26.0,2.1,Late,2025-12-01
+FD00113,C0064,Food Corner,Pune,Italian,1944.74,102.12,33.0,4.2,Delivered,2025-08-28
+FD00114,C0120,Food Corner,Patna,South Indian,2027.19,54.03,34.0,2.9,Delivered,2026-01-19
+FD00115,C0064,Spice Hub,Kolkata,Fast Food,1339.42,148.98,16.0,1.3,Late,2025-12-26
+FD00116,C0199,Green Bowl,Pune,Indian,539.09,136.39,41.0,1.6,Delivered,2026-08-20
+FD00117,C0195,Spice Hub,Bangalore,Fast Food,2389.26,138.55,46.0,1.0,Delivered,2025-12-22
+FD00118,C0147,Cafe 24,Delhi,Indian,1989.15,100.67,36.0,1.2,Late,2026-09-29
+FD00119,C0187,Tandoori House,Delhi,Italian,1123.18,28.43,40.0,1.8,Cancelled,2025-12-10
+FD00120,C0129,Tandoori House,Kolkata,Italian,843.8,78.86,34.0,2.2,Delivered,2026-07-12
+FD00121,C0088,Cafe 24,Mumbai,Indian,1215.94,107.49,11.0,3.0,Delivered,2025-12-23
+FD00122,C0163,Food Corner,Kolkata,Italian,2166.91,54.64,39.0,1.7,Late,2025-01-15
+FD00123,C0032,Food Corner,Bangalore,Fast Food,545.47,71.24,25.0,2.6,Delivered,2025-08-03
+FD00124,C0207,Green Bowl,Delhi,Chinese,1827.01,88.81,50.0,2.4,Delivered,2026-04-09
+FD00125,C0018,Food Corner,Delhi,Chinese,1703.68,51.09,34.0,5.0,Delivered,2026-03-16
+FD00126,C0205,Urban Bites,Patna,Fast Food,487.47,110.4,40.0,4.9,Late,2026-01-10
+FD00127,C0002,Spice Hub,Kolkata,South Indian,2481.51,70.89,50.0,2.1,Delivered,2026-04-28
+FD00128,C0016,Tandoori House,Patna,South Indian,1252.98,137.22,10.0,2.6,Delivered,2025-10-07
+FD00129,C0203,Food Corner,Mumbai,Italian,1132.68,39.6,51.0,1.2,Delivered,2026-06-08
+FD00130,C0033,Spice Hub,Patna,Chinese,1659.87,122.61,19.0,1.7,Delivered,2025-08-17
+FD00131,C0123,Green Bowl,Patna,Indian,974.31,115.22,46.0,2.2,Delivered,2026-06-12
+FD00132,C0038,Cafe 24,Patna,Indian,612.42,32.7,31.0,2.6,Delivered,2025-09-09
+FD00133,C0015,Green Bowl,Patna,Italian,2400.11,108.86,10.0,3.8,Delivered,2025-12-22
+FD00134,C0088,Green Bowl,Pune,South Indian,2355.96,89.33,48.0,2.6,Delivered,2025-07-20
+FD00135,C0022,Food Corner,Delhi,Fast Food,2194.42,74.01,44.0,2.5,Delivered,2026-01-16
+FD00136,C0139,Food Corner,Pune,Italian,171.69,146.58,48.0,3.8,Delivered,2025-09-12
+FD00137,C0219,Tandoori House,Mumbai,Italian,873.9,120.53,34.0,3.7,Cancelled,2025-02-18
+FD00138,C0098,Spice Hub,Bangalore,Italian,588.6,80.84,48.0,3.7,Delivered,2026-03-13
+FD00139,C0187,Green Bowl,Kolkata,Fast Food,2497.08,99.14,38.0,3.1,Delivered,2026-09-09
+FD00140,C0173,Cafe 24,Bangalore,Italian,2256.4,51.77,50.0,4.0,Delivered,2025-05-29
+FD00141,C0175,Tandoori House,Bangalore,Chinese,2070.22,49.92,28.0,2.7,Delivered,2025-10-14
+FD00142,C0127,Green Bowl,Delhi,South Indian,536.88,31.8,36.0,3.1,Delivered,2026-04-11
+FD00143,C0014,Food Corner,Delhi,Indian,1737.65,27.46,28.0,3.1,Delivered,2026-07-18
+FD00144,C0186,Green Bowl,Pune,Chinese,533.05,44.24,39.0,1.6,Delivered,2025-08-04
+FD00145,C0113,Green Bowl,Mumbai,Fast Food,1445.3,82.69,53.0,4.0,Delivered,2025-06-30
+FD00146,C0026,Green Bowl,Kolkata,Fast Food,1153.44,40.62,26.0,2.3,Delivered,2025-12-04
+FD00147,C0153,Urban Bites,Pune,South Indian,1057.05,85.69,41.0,2.5,Delivered,2025-02-16
+FD00148,C0014,Green Bowl,Delhi,South Indian,2173.54,81.12,57.0,1.7,Delivered,2026-06-16
+FD00149,C0173,Green Bowl,Bangalore,Chinese,2292.94,26.29,26.0,1.0,Delivered,2026-03-21
+FD00150,C0068,Tandoori House,Kolkata,Indian,376.69,130.04,19.0,1.0,Delivered,2025-07-04
+FD00151,C0003,Food Corner,Bangalore,Chinese,1290.29,141.05,44.0,3.4,Delivered,2026-06-04
+FD00152,C0011,Spice Hub,Kolkata,Italian,1906.87,129.61,27.0,2.1,Delivered,2025-12-30
+FD00153,C0171,Green Bowl,Pune,Italian,519.84,125.8,34.0,4.1,Delivered,2026-08-30
+FD00154,C0216,Green Bowl,Pune,Italian,741.81,31.35,20.0,1.5,Delivered,2025-09-15
+FD00155,C0184,Food Corner,Patna,South Indian,2210.34,101.74,28.0,4.2,Delivered,2025-12-21
+FD00156,C0067,Cafe 24,Pune,Fast Food,825.05,144.07,37.0,,Delivered,2025-10-21
+FD00157,C0219,Green Bowl,Kolkata,South Indian,268.43,56.59,33.0,3.8,Delivered,2026-03-04
+FD00158,C0020,Spice Hub,Pune,Fast Food,2283.87,27.76,41.0,2.8,Cancelled,2025-03-14
+FD00159,C0163,Tandoori House,Delhi,Indian,1127.94,55.9,23.0,4.3,Delivered,2025-02-20
+FD00160,C0054,Spice Hub,Pune,Chinese,2196.16,41.34,52.0,3.0,Delivered,2026-06-10
+FD00161,C0065,Tandoori House,Patna,Indian,352.83,97.43,31.0,3.9,Cancelled,2026-02-17
+FD00162,C0145,Tandoori House,Pune,Indian,2286.72,138.53,41.0,4.7,Delivered,2026-07-16
+FD00163,C0012,Spice Hub,Mumbai,Fast Food,1623.73,77.66,10.0,1.4,Delivered,2025-01-02
+FD00164,C0112,Food Corner,Delhi,Fast Food,2456.39,121.58,26.0,2.3,Delivered,2025-07-20
+FD00165,C0208,Green Bowl,Mumbai,Chinese,1580.91,80.0,42.0,3.7,Delivered,2026-02-03
+FD00166,C0138,Tandoori House,Kolkata,Fast Food,2112.78,114.37,45.0,3.2,Delivered,2025-05-31
+FD00167,C0013,Food Corner,Bangalore,Italian,871.34,135.19,33.0,1.9,Delivered,2025-10-08
+FD00168,C0054,Spice Hub,Pune,Indian,1394.73,42.55,33.0,2.1,Delivered,2025-03-26
+FD00169,C0177,Tandoori House,Kolkata,Indian,1376.11,148.5,35.0,2.4,Delivered,2026-05-23
+FD00170,C0190,Cafe 24,Pune,Fast Food,816.44,72.19,46.0,3.1,Cancelled,2025-01-20
+FD00171,C0057,Urban Bites,Patna,Indian,701.81,26.46,19.0,4.6,Cancelled,2025-01-31
+FD00172,C0009,Urban Bites,Patna,Fast Food,1939.98,144.41,11.0,4.3,Delivered,2026-04-05
+FD00173,C0174,Cafe 24,Mumbai,Italian,1054.52,77.85,31.0,1.0,Delivered,2025-05-22
+FD00174,C0183,Spice Hub,Kolkata,Fast Food,2109.96,66.03,33.0,2.1,Cancelled,2025-04-25
+FD00175,C0157,Food Corner,Patna,Fast Food,2453.06,98.73,50.0,3.5,Delivered,2026-01-15
+FD00176,C0038,Urban Bites,Delhi,Indian,2302.7,52.86,36.0,3.0,Delivered,2026-03-15
+FD00177,C0090,Spice Hub,Pune,Fast Food,829.25,39.71,32.0,4.8,Late,2025-07-24
+FD00178,C0105,Food Corner,Mumbai,Fast Food,1006.14,97.11,61.0,2.7,Delivered,2025-08-04
+FD00179,C0112,Food Corner,Mumbai,Italian,156.94,116.62,29.0,1.4,Delivered,2025-08-19
+FD00180,C0054,Tandoori House,Mumbai,Chinese,221.26,109.64,33.0,4.9,Delivered,2025-05-03
+FD00181,C0176,Food Corner,Pune,Fast Food,2482.93,69.6,35.0,3.1,Delivered,2025-11-11
+FD00182,C0174,Tandoori House,Delhi,Fast Food,2097.63,55.5,39.0,2.8,Delivered,2025-11-28
+FD00183,C0161,Green Bowl,Kolkata,Indian,1163.78,31.99,37.0,3.8,Delivered,2025-03-02
+FD00184,C0100,Spice Hub,Kolkata,Indian,1705.47,135.11,28.0,1.3,Delivered,2025-04-12
+FD00185,C0111,Urban Bites,Bangalore,Indian,2215.62,21.56,12.0,3.8,Delivered,2025-01-07
+FD00186,C0001,Spice Hub,Pune,Chinese,214.18,48.47,20.0,1.3,Delivered,2026-02-19
+FD00187,C0166,Food Corner,Pune,South Indian,927.2,45.57,60.0,1.3,Cancelled,2025-03-29
+FD00188,C0064,Tandoori House,Mumbai,Italian,418.04,79.93,44.0,1.8,Delivered,2026-08-20
+FD00189,C0117,Tandoori House,Kolkata,Indian,207.69,149.17,36.0,3.8,Delivered,2025-09-23
+FD00190,C0002,Urban Bites,Mumbai,Chinese,485.58,133.68,42.0,1.3,Late,2026-02-15
+FD00191,C0123,Spice Hub,Bangalore,Indian,962.97,41.81,13.0,2.3,Cancelled,2026-09-22
+FD00192,C0201,Spice Hub,Kolkata,Fast Food,1677.78,106.13,37.0,3.1,Delivered,2026-01-19
+FD00193,C0156,Spice Hub,Mumbai,Italian,664.82,126.9,19.0,4.7,Late,2026-06-27
+FD00194,C0204,Food Corner,Patna,Fast Food,2076.9,148.43,41.0,1.8,Delivered,2026-01-07
+FD00195,C0042,Green Bowl,Patna,Chinese,2386.77,41.25,10.0,2.0,Delivered,2025-11-17
+FD00196,C0148,Urban Bites,Patna,Chinese,184.0,121.94,37.0,4.1,Delivered,2025-07-03
+FD00197,C0150,Food Corner,Delhi,Italian,1647.82,93.37,18.0,3.1,Delivered,2026-07-28
+FD00198,C0049,Cafe 24,Mumbai,South Indian,222.27,56.81,31.0,2.9,Delivered,2025-03-17
+FD00199,C0019,Urban Bites,Bangalore,Italian,2146.05,148.53,50.0,1.8,Delivered,2026-02-17
+FD00200,C0131,Cafe 24,Delhi,Fast Food,1643.8,57.47,19.0,1.7,Delivered,2026-05-25
+FD00201,C0067,Cafe 24,Mumbai,Chinese,1478.86,114.7,40.0,2.3,Delivered,2026-06-14
+FD00202,C0179,Cafe 24,Pune,Chinese,1312.1,135.84,38.0,4.9,Delivered,2026-04-19
+FD00203,C0116,Urban Bites,Pune,Italian,2096.52,81.75,50.0,2.5,Delivered,2025-05-21
+FD00204,C0144,Food Corner,Delhi,Italian,367.33,132.42,23.0,2.8,Delivered,2025-08-21
+FD00205,C0095,Food Corner,Patna,South Indian,2372.35,43.19,38.0,4.5,Delivered,2026-05-01
+FD00206,C0022,Food Corner,Delhi,Indian,1248.65,68.76,17.0,4.9,Delivered,2025-09-02
+FD00207,C0020,Urban Bites,Patna,Italian,1983.83,61.15,20.0,2.4,Delivered,2026-01-06
+FD00208,C0205,Tandoori House,Mumbai,Chinese,850.68,147.84,31.0,4.6,Delivered,2026-05-17
+FD00209,C0205,Tandoori House,Patna,South Indian,552.33,24.01,48.0,3.1,Late,2025-10-07
+FD00210,C0171,Spice Hub,Mumbai,Chinese,252.61,43.86,28.0,3.9,Delivered,2025-05-20
+FD00211,C0172,Tandoori House,Kolkata,South Indian,1765.13,138.03,50.0,3.3,Delivered,2025-08-25
+FD00212,C0169,Cafe 24,Mumbai,Indian,267.58,141.91,45.0,1.5,Delivered,2025-10-26
+FD00213,C0082,Spice Hub,Patna,Italian,857.65,129.6,41.0,4.0,Delivered,2025-11-13
+FD00214,C0087,Tandoori House,Pune,Italian,1921.94,120.11,43.0,2.2,Delivered,2025-10-01
+FD00215,C0060,Tandoori House,Pune,Indian,1550.95,47.59,10.0,2.8,Delivered,2025-06-04
+FD00216,C0012,Spice Hub,Delhi,Fast Food,1120.14,83.5,40.0,4.7,Late,2026-07-23
+FD00217,C0143,Food Corner,Delhi,South Indian,1208.22,81.27,32.0,1.8,Delivered,2026-04-30
+FD00218,C0215,Green Bowl,Mumbai,Fast Food,971.04,140.01,14.0,1.2,Delivered,2026-01-04
+FD00219,C0172,Cafe 24,Bangalore,Fast Food,1014.2,73.0,38.0,4.4,Delivered,2025-03-28
+FD00220,C0101,Cafe 24,Patna,South Indian,1614.88,29.19,24.0,1.6,Delivered,2026-04-24
+FD00221,C0087,Tandoori House,Patna,Fast Food,1759.01,42.66,36.0,1.2,Delivered,2025-04-21
+FD00222,C0153,Cafe 24,Kolkata,Fast Food,919.28,127.56,35.0,1.1,Delivered,2026-05-15
+FD00223,C0128,Tandoori House,Patna,Italian,277.27,80.84,31.0,2.1,Delivered,2026-06-22
+FD00224,C0144,Urban Bites,Pune,Chinese,1619.73,25.07,40.0,1.9,Delivered,2025-06-23
+FD00225,C0216,Spice Hub,Bangalore,Italian,245.99,25.49,34.0,3.2,Cancelled,2025-11-23
+FD00226,C0157,Cafe 24,Bangalore,Indian,989.31,133.37,36.0,1.1,Delivered,2025-05-18
+FD00227,C0056,Tandoori House,Pune,Indian,1464.04,63.94,25.0,2.9,Late,2026-08-16
+FD00228,C0193,Spice Hub,Delhi,South Indian,359.6,26.43,42.0,4.9,Delivered,2026-03-17
+FD00229,C0183,Food Corner,Patna,Chinese,267.83,66.45,44.0,1.4,Late,2025-10-26
+FD00230,C0129,Cafe 24,Bangalore,Italian,1522.22,146.96,38.0,2.5,Delivered,2025-08-28
+FD00231,C0035,Cafe 24,Patna,Fast Food,1673.89,108.22,40.0,3.5,Delivered,2025-04-18
+FD00232,C0005,Cafe 24,Mumbai,Indian,613.68,128.78,50.0,1.2,Delivered,2026-01-10
+FD00233,C0144,Urban Bites,Kolkata,Italian,2338.32,44.02,18.0,1.1,Delivered,2026-09-17
+FD00234,C0142,Tandoori House,Kolkata,Fast Food,2100.86,61.93,31.0,2.6,Delivered,2025-02-27
+FD00235,C0095,Spice Hub,Bangalore,Fast Food,892.05,134.99,49.0,4.3,Delivered,2026-05-24
+FD00236,C0076,Tandoori House,Mumbai,Italian,1238.83,89.82,32.0,3.3,Delivered,2025-03-10
+FD00237,C0152,Food Corner,Kolkata,Fast Food,955.52,62.67,39.0,1.9,Delivered,2025-03-31
+FD00238,C0024,Cafe 24,Mumbai,South Indian,1852.22,119.22,28.0,3.0,Delivered,2026-04-28
+FD00239,C0116,Cafe 24,Mumbai,Chinese,554.05,37.11,51.0,4.4,Delivered,2026-06-12
+FD00240,C0140,Cafe 24,Mumbai,Indian,2282.8,28.46,33.0,2.3,Late,2025-11-26
+FD00241,C0105,Green Bowl,Pune,Italian,996.67,82.12,54.0,3.0,Delivered,2026-03-19
+FD00242,C0125,Green Bowl,Patna,Chinese,1688.76,95.32,55.0,3.2,Delivered,2025-08-03
+FD00243,C0064,Green Bowl,Patna,South Indian,212.88,72.76,36.0,3.0,Delivered,2026-01-10
+FD00244,C0096,Cafe 24,Mumbai,South Indian,1332.53,45.99,38.0,1.5,Delivered,2025-12-17
+FD00245,C0196,Urban Bites,Delhi,Chinese,267.85,22.68,59.0,1.7,Delivered,2025-04-16
+FD00246,C0014,Cafe 24,Bangalore,Italian,2227.45,132.38,29.0,1.4,Delivered,2026-03-10
+FD00247,C0001,Green Bowl,Delhi,South Indian,300.61,22.74,40.0,1.9,Delivered,2025-11-29
+FD00248,C0120,Food Corner,Mumbai,Fast Food,2068.67,146.98,33.0,1.4,Cancelled,2025-08-21
+FD00249,C0118,Spice Hub,Bangalore,South Indian,295.89,57.95,46.0,4.3,Delivered,2025-07-29
+FD00250,C0139,Food Corner,Bangalore,Italian,1232.18,114.16,31.0,3.9,Delivered,2025-06-08
+FD00251,C0083,Spice Hub,Delhi,South Indian,686.41,24.51,54.0,2.1,Delivered,2025-02-11
+FD00252,C0028,Cafe 24,Delhi,Fast Food,2338.24,112.9,24.0,1.5,Delivered,2025-06-18
+FD00253,C0110,Urban Bites,Pune,Italian,2428.69,20.75,48.0,1.3,Delivered,2026-04-02
+FD00254,C0161,Cafe 24,Delhi,Chinese,2132.19,135.1,48.0,2.6,Delivered,2026-05-20
+FD00255,C0017,Green Bowl,Mumbai,Fast Food,1379.39,31.16,39.0,1.6,Late,2025-01-09
+FD00256,C0027,Tandoori House,Pune,Chinese,1344.85,69.11,13.0,1.6,Late,2025-01-04
+FD00257,C0109,Cafe 24,Mumbai,South Indian,2453.05,141.52,40.0,4.0,Late,2025-04-29
+FD00258,C0056,Urban Bites,Mumbai,South Indian,1111.09,35.55,46.0,3.5,Delivered,2025-12-08
+FD00259,C0163,Cafe 24,Kolkata,South Indian,1678.22,108.25,55.0,3.1,Delivered,2025-01-25
+FD00260,C0062,Tandoori House,Pune,Indian,202.98,96.41,30.0,3.0,Delivered,2025-07-12
+FD00261,C0047,Tandoori House,Delhi,Chinese,2402.76,137.79,39.0,4.1,Delivered,2026-04-17
+FD00262,C0182,Green Bowl,Delhi,South Indian,800.8,141.43,40.0,1.4,Delivered,2026-02-17
+FD00263,C0118,Cafe 24,Delhi,Italian,486.58,124.38,31.0,4.1,Delivered,2025-07-16
+FD00264,C0070,Spice Hub,Pune,Italian,962.27,121.12,31.0,1.3,Late,2026-02-27
+FD00265,C0071,Cafe 24,Kolkata,South Indian,1246.1,49.24,36.0,4.5,Delivered,2026-02-09
+FD00266,C0037,Spice Hub,Patna,Fast Food,1688.95,75.53,52.0,4.0,Delivered,2025-01-30
+FD00267,C0123,Food Corner,Bangalore,South Indian,2002.01,75.07,17.0,1.7,Cancelled,2026-09-14
+FD00268,C0049,Tandoori House,Patna,Italian,2288.37,80.2,38.0,4.0,Late,2025-09-29
+FD00269,C0063,Food Corner,Mumbai,South Indian,438.56,21.64,47.0,4.3,Delivered,2025-10-27
+FD00270,C0075,Urban Bites,Patna,South Indian,1885.42,136.42,23.0,3.7,Delivered,2026-07-04
+FD00271,C0028,Tandoori House,Patna,South Indian,1901.05,49.37,57.0,2.2,Delivered,2026-04-10
+FD00272,C0067,Spice Hub,Kolkata,Indian,1308.79,51.62,33.0,2.8,Delivered,2025-10-31
+FD00273,C0072,Tandoori House,Bangalore,Fast Food,583.92,62.29,50.0,1.5,Delivered,2026-09-13
+FD00274,C0152,Cafe 24,Patna,Chinese,1694.15,85.19,31.0,2.8,Delivered,2025-08-13
+FD00275,C0140,Cafe 24,Delhi,Indian,647.11,36.2,10.0,3.8,Delivered,2026-07-25
+FD00276,C0079,Green Bowl,Delhi,South Indian,1540.12,55.78,41.0,2.5,Delivered,2026-02-07
+FD00277,C0044,Urban Bites,Kolkata,Indian,1656.74,145.25,24.0,4.8,Delivered,2026-01-13
+FD00278,C0155,Tandoori House,Kolkata,Italian,765.23,59.77,41.0,2.7,Delivered,2025-07-30
+FD00279,C0085,Spice Hub,Patna,South Indian,2342.44,71.12,32.0,1.1,Delivered,2026-05-31
+FD00280,C0184,Cafe 24,Delhi,Chinese,2260.26,83.21,21.0,4.7,Late,2025-03-11
+FD00281,C0205,Spice Hub,Mumbai,Indian,942.53,83.88,50.0,1.1,Delivered,2026-03-08
+FD00282,C0138,Cafe 24,Patna,Indian,1392.92,112.77,33.0,4.8,Cancelled,2026-08-19
+FD00283,C0057,Urban Bites,Pune,Fast Food,2220.25,138.41,23.0,4.9,Delivered,2025-04-29
+FD00284,C0009,Green Bowl,Delhi,Chinese,2431.15,34.38,32.0,4.2,Delivered,2025-12-23
+FD00285,C0006,Spice Hub,Delhi,Italian,1164.28,139.03,32.0,2.7,Delivered,2025-06-27
+FD00286,C0189,Spice Hub,Bangalore,Italian,1160.45,97.96,47.0,3.9,Delivered,2026-04-03
+FD00287,C0085,Food Corner,Pune,Italian,2282.22,119.83,34.0,4.6,Delivered,2025-02-03
+FD00288,C0085,Urban Bites,Bangalore,South Indian,1889.99,30.01,44.0,2.5,Delivered,2026-02-20
+FD00289,C0208,Urban Bites,Bangalore,South Indian,1351.27,55.33,57.0,1.3,Delivered,2025-04-27
+FD00290,C0159,Spice Hub,Mumbai,Chinese,743.1,50.6,47.0,3.1,Delivered,2026-06-28
+FD00291,C0151,Spice Hub,Pune,South Indian,2179.05,117.8,33.0,4.2,Delivered,2026-05-18
+FD00292,C0100,Urban Bites,Patna,Chinese,670.21,121.38,23.0,1.9,Cancelled,2026-07-18
+FD00293,C0130,Tandoori House,Kolkata,Chinese,1793.02,68.37,21.0,2.3,Late,2026-09-19
+FD00294,C0082,Cafe 24,Mumbai,Italian,200.06,79.06,47.0,1.2,Late,2026-05-21
+FD00295,C0037,Food Corner,Mumbai,South Indian,1542.35,87.13,27.0,2.3,Delivered,2025-05-01
+FD00296,C0042,Spice Hub,Bangalore,Fast Food,1059.98,110.86,29.0,1.9,Delivered,2025-12-20
+FD00297,C0108,Cafe 24,Delhi,Fast Food,2341.16,33.45,38.0,2.9,Delivered,2025-04-05
+FD00298,C0023,Spice Hub,Kolkata,Indian,505.34,136.92,49.0,5.0,Delivered,2025-02-06
+FD00299,C0096,Urban Bites,Kolkata,Fast Food,1989.11,111.8,42.0,4.6,Delivered,2025-09-28
+FD00300,C0102,Tandoori House,Patna,Italian,2262.62,32.47,50.0,3.8,Delivered,2026-09-08
+FD00301,C0015,Cafe 24,Kolkata,South Indian,1759.16,49.53,44.0,3.9,Delivered,2025-03-28
+FD00302,C0005,Cafe 24,Mumbai,Chinese,306.3,133.51,19.0,3.6,Delivered,2026-06-16
+FD00303,C0072,Green Bowl,Delhi,Fast Food,742.19,57.17,46.0,1.6,Delivered,2025-10-04
+FD00304,C0124,Spice Hub,Pune,Fast Food,720.33,24.25,36.0,2.8,Delivered,2026-03-19
+FD00305,C0167,Urban Bites,Delhi,Chinese,1492.13,85.2,45.0,4.2,Delivered,2026-03-05
+FD00306,C0174,Tandoori House,Bangalore,Italian,2008.74,114.61,38.0,4.8,Late,2026-01-26
+FD00307,C0136,Spice Hub,Mumbai,South Indian,801.66,125.99,35.0,3.5,Delivered,2025-02-22
+FD00308,C0128,Urban Bites,Patna,Indian,746.26,37.34,45.0,3.3,Delivered,2026-05-22
+FD00309,C0045,Urban Bites,Bangalore,South Indian,1409.19,100.01,45.0,1.9,Delivered,2025-01-28
+FD00310,C0030,Cafe 24,Pune,Chinese,1998.82,75.26,26.0,4.3,Delivered,2025-09-25
+FD00311,C0129,Food Corner,Pune,South Indian,779.97,24.55,42.0,4.6,Delivered,2026-09-04
+FD00312,C0020,Spice Hub,Mumbai,Chinese,362.12,38.06,33.0,3.1,Delivered,2026-03-24
+FD00313,C0129,Cafe 24,Mumbai,Chinese,1514.18,64.84,39.0,2.6,Late,2026-09-18
+FD00314,C0161,Urban Bites,Mumbai,South Indian,832.75,90.65,12.0,4.2,Delivered,2026-05-03
+FD00315,C0065,Urban Bites,Pune,Italian,2344.0,75.21,40.0,2.2,Delivered,2025-05-01
+FD00316,C0132,Spice Hub,Pune,Fast Food,1889.46,67.16,31.0,4.3,Delivered,2026-08-20
+FD00317,C0058,Spice Hub,Patna,Indian,2331.47,112.07,41.0,1.5,Delivered,2025-07-14
+FD00318,C0117,Tandoori House,Delhi,Fast Food,1673.77,113.81,32.0,4.7,Delivered,2026-01-04
+FD00319,C0159,Food Corner,Pune,Italian,511.6,57.89,26.0,3.3,Delivered,2026-02-28
+FD00320,C0105,Urban Bites,Patna,Fast Food,1477.86,68.78,32.0,2.7,Delivered,2025-06-12
+FD00321,C0033,Cafe 24,Mumbai,Chinese,625.54,72.47,34.0,3.6,Delivered,2025-10-17
+FD00322,C0159,Cafe 24,Mumbai,South Indian,326.71,62.12,46.0,3.4,Cancelled,2025-06-24
+FD00323,C0013,Tandoori House,Pune,South Indian,1444.49,148.64,41.0,1.1,Delivered,2025-10-01
+FD00324,C0192,Spice Hub,Bangalore,Chinese,309.19,104.21,30.0,4.8,Delivered,2025-11-12
+FD00325,C0086,Cafe 24,Bangalore,Italian,845.82,69.58,29.0,2.5,Late,2025-02-22
+FD00326,C0092,Food Corner,Bangalore,Chinese,1167.61,112.86,34.0,1.9,Delivered,2025-01-04
+FD00327,C0096,Urban Bites,Patna,Indian,1536.14,43.65,20.0,4.5,Delivered,2026-08-24
+FD00328,C0195,Spice Hub,Kolkata,Italian,1090.53,80.25,26.0,2.3,Delivered,2026-08-03
+FD00329,C0188,Spice Hub,Kolkata,Italian,1857.17,55.1,29.0,2.1,Delivered,2026-02-23
+FD00330,C0111,Cafe 24,Delhi,Fast Food,1336.51,87.4,36.0,1.4,Delivered,2025-02-12
+FD00331,C0186,Cafe 24,Mumbai,Indian,2372.0,39.21,32.0,2.2,Delivered,2025-07-31
+FD00332,C0047,Tandoori House,Delhi,Italian,571.5,69.45,19.0,1.5,Delivered,2025-02-25
+FD00333,C0071,Spice Hub,Patna,South Indian,1838.96,136.45,27.0,1.1,Delivered,2025-11-26
+FD00334,C0187,Urban Bites,Bangalore,Chinese,2469.25,27.71,42.0,4.6,Delivered,2025-08-02
+FD00335,C0110,Urban Bites,Kolkata,South Indian,1383.02,146.89,36.0,2.6,Delivered,2025-07-28
+FD00336,C0212,Green Bowl,Pune,Fast Food,726.43,146.89,28.0,1.7,Delivered,2025-03-24
+FD00337,C0130,Cafe 24,Bangalore,Indian,1360.82,24.47,29.0,3.5,Delivered,2025-08-02
+FD00338,C0101,Food Corner,Patna,Indian,2191.65,97.55,47.0,4.6,Delivered,2025-09-27
+FD00339,C0073,Spice Hub,Delhi,South Indian,664.93,105.18,41.0,3.6,Delivered,2026-09-09
+FD00340,C0003,Spice Hub,Kolkata,South Indian,578.6,85.84,15.0,3.0,Late,2026-06-06
+FD00341,C0174,Food Corner,Pune,Fast Food,636.26,114.44,35.0,2.7,Delivered,2026-04-24
+FD00342,C0177,Cafe 24,Patna,Indian,481.82,58.61,58.0,3.7,Delivered,2025-02-09
+FD00343,C0210,Spice Hub,Pune,Chinese,2351.82,108.8,36.0,3.9,Late,2026-03-18
+FD00344,C0023,Tandoori House,Kolkata,Chinese,598.42,134.45,44.0,1.3,Delivered,2026-08-30
+FD00345,C0076,Cafe 24,Bangalore,Chinese,1409.68,112.69,45.0,3.8,Cancelled,2025-10-24
+FD00346,C0079,Urban Bites,Bangalore,Chinese,1642.72,138.18,46.0,1.0,Delivered,2026-03-27
+FD00347,C0190,Spice Hub,Patna,South Indian,1660.39,102.17,18.0,2.0,Late,2025-12-29
+FD00348,C0175,Spice Hub,Patna,South Indian,2265.58,44.18,29.0,3.9,Delivered,2026-02-14
+FD00349,C0150,Tandoori House,Patna,Indian,2361.07,92.46,17.0,1.2,Delivered,2026-02-14
+FD00350,C0050,Tandoori House,Patna,Italian,1976.04,62.44,29.0,3.2,Delivered,2026-03-06
+FD00351,C0214,Tandoori House,Mumbai,Italian,280.99,140.35,36.0,4.5,Delivered,2025-05-18
+FD00352,C0025,Spice Hub,Mumbai,South Indian,1819.84,23.23,43.0,2.3,Delivered,2025-01-19
+FD00353,C0016,Urban Bites,Bangalore,Indian,1709.46,143.26,50.0,3.4,Delivered,2026-04-07
+FD00354,C0191,Tandoori House,Patna,Indian,1861.01,30.25,27.0,4.5,Delivered,2026-05-06
+FD00355,C0005,Food Corner,Patna,Chinese,608.02,52.16,44.0,3.3,Delivered,2025-06-23
+FD00356,C0182,Spice Hub,Patna,Italian,405.84,46.43,60.0,1.6,Cancelled,2025-01-09
+FD00357,C0162,Spice Hub,Kolkata,South Indian,1169.34,68.06,32.0,2.4,Delivered,2025-10-02
+FD00358,C0062,Cafe 24,Pune,Fast Food,2457.06,134.8,54.0,1.3,Delivered,2026-04-21
+FD00359,C0139,Green Bowl,Mumbai,Indian,700.54,111.57,43.0,1.4,Delivered,2025-03-15
+FD00360,C0205,Tandoori House,Mumbai,Indian,1040.27,134.22,34.0,3.0,Delivered,2026-01-23
+FD00361,C0095,Urban Bites,Bangalore,Italian,667.66,35.4,28.0,1.6,Delivered,2025-01-30
+FD00362,C0161,Urban Bites,Pune,Italian,786.22,72.54,22.0,3.3,Late,2026-07-15
+FD00363,C0146,Green Bowl,Pune,Italian,879.31,76.48,42.0,4.5,Delivered,2025-01-17
+FD00364,C0140,Spice Hub,Bangalore,South Indian,1790.54,108.3,20.0,1.9,Delivered,2026-04-17
+FD00365,C0041,Spice Hub,Bangalore,Italian,2085.6,51.68,42.0,1.6,Delivered,2025-09-03
+FD00366,C0173,Green Bowl,Patna,Chinese,218.27,46.63,48.0,1.8,Delivered,2026-09-04
+FD00367,C0092,Spice Hub,Kolkata,South Indian,673.79,148.44,46.0,1.1,Delivered,2025-12-16
+FD00368,C0187,Food Corner,Bangalore,Chinese,1045.17,99.8,44.0,4.0,Cancelled,2026-04-06
+FD00369,C0065,Urban Bites,Kolkata,Fast Food,1451.08,88.19,43.0,3.7,Delivered,2026-01-04
+FD00370,C0099,Spice Hub,Pune,Chinese,602.35,89.52,44.0,3.8,Cancelled,2025-04-11
+FD00371,C0019,Green Bowl,Mumbai,Chinese,1371.14,60.16,19.0,4.0,Delivered,2025-08-05
+FD00372,C0210,Green Bowl,Kolkata,Chinese,2137.2,143.78,29.0,2.8,Delivered,2025-09-02
+FD00373,C0158,Cafe 24,Pune,Chinese,2199.87,79.99,14.0,3.3,Delivered,2026-05-08
+FD00374,C0098,Cafe 24,Pune,Chinese,1103.9,62.66,36.0,1.1,Delivered,2026-07-09
+FD00375,C0032,Tandoori House,Kolkata,Indian,1595.64,80.53,34.0,2.5,Delivered,2025-06-30
+FD00376,C0195,Cafe 24,Patna,Indian,766.0,127.56,30.0,2.4,Delivered,2025-05-22
+FD00377,C0046,Cafe 24,Patna,South Indian,1405.38,21.02,21.0,4.3,Delivered,2025-10-23
+FD00378,C0017,Cafe 24,Bangalore,Fast Food,1522.53,95.94,37.0,2.3,Delivered,2025-05-02
+FD00379,C0140,Cafe 24,Kolkata,Chinese,1369.63,133.2,34.0,1.6,Delivered,2025-06-13
+FD00380,C0152,Green Bowl,Patna,Chinese,2355.93,144.34,32.0,2.5,Delivered,2025-05-21
+FD00381,C0004,Urban Bites,Bangalore,South Indian,654.04,45.77,34.0,4.0,Delivered,2026-01-05
+FD00382,C0128,Green Bowl,Pune,Fast Food,2371.98,121.79,53.0,2.4,Delivered,2026-06-22
+FD00383,C0078,Green Bowl,Kolkata,Chinese,2103.57,119.84,32.0,3.2,Late,2025-06-03
+FD00384,C0155,Green Bowl,Patna,Chinese,1594.55,34.24,22.0,3.1,Delivered,2026-04-09
+FD00385,C0127,Green Bowl,Delhi,Indian,1242.02,97.67,43.0,3.4,Delivered,2026-08-21
+FD00386,C0069,Urban Bites,Delhi,South Indian,429.71,39.89,46.0,4.3,Late,2025-04-07
+FD00387,C0212,Cafe 24,Mumbai,Chinese,2458.34,95.79,19.0,1.5,Delivered,2025-06-16
+FD00388,C0003,Urban Bites,Kolkata,Chinese,2481.41,43.46,39.0,1.8,Delivered,2025-07-13
+FD00389,C0117,Tandoori House,Delhi,South Indian,2056.05,89.05,21.0,1.3,Delivered,2025-11-08
+FD00390,C0004,Spice Hub,Delhi,Indian,1749.31,34.26,29.0,2.0,Delivered,2025-08-13
+FD00391,C0030,Urban Bites,Bangalore,South Indian,1237.51,22.52,12.0,4.3,Delivered,2025-09-01
+FD00392,C0210,Food Corner,Kolkata,Fast Food,1335.44,103.29,59.0,2.4,Delivered,2025-01-12
+FD00393,C0009,Urban Bites,Delhi,Italian,1430.41,97.74,40.0,1.4,Delivered,2026-08-09
+FD00394,C0058,Spice Hub,Delhi,Fast Food,741.51,99.15,28.0,1.9,Delivered,2025-10-20
+FD00395,C0185,Food Corner,Mumbai,Fast Food,1396.51,32.53,23.0,1.8,Late,2025-05-28
+FD00396,C0001,Spice Hub,Delhi,South Indian,888.6,79.29,35.0,2.7,Delivered,2025-07-12
+FD00397,C0103,Food Corner,Mumbai,Chinese,1150.64,132.84,40.0,3.5,Late,2026-07-16
+FD00398,C0148,Green Bowl,Mumbai,Chinese,809.66,130.59,25.0,1.0,Delivered,2025-07-09
+FD00399,C0117,Urban Bites,Pune,Fast Food,1555.53,99.76,50.0,3.1,Delivered,2026-05-20
+FD00400,C0052,Green Bowl,Mumbai,Indian,2455.1,66.02,28.0,4.4,Delivered,2025-11-10
+FD00008,C0172,Cafe 24,Pune,South Indian,2352.1,77.64,37.0,4.0,Delivered,2026-05-15
+FD00036,C0211,Food Corner,Kolkata,Fast Food,1424.74,125.27,46.0,4.1,Delivered,2026-08-06
